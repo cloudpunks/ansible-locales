@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.4.0](https://github.com/rolehippie/locales/compare/v4.3.0...v4.4.0) (2026-08-10)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-doctor to v8.4.0 ([#61](https://github.com/rolehippie/locales/issues/61)) ([5eef743](https://github.com/rolehippie/locales/commit/5eef7434e14159a7d2157af07cbf4bbd41eb35ad))
+* **patch:** update dependency python to v3.14.7 ([#59](https://github.com/rolehippie/locales/issues/59)) ([4424d23](https://github.com/rolehippie/locales/commit/4424d23f5ab27e021eca36e8960c66027621ba4c))
+
 ## [4.3.0](https://github.com/rolehippie/locales/compare/v4.2.0...v4.3.0) (2026-07-27)
 
 ## [4.2.0](https://github.com/rolehippie/locales/compare/v4.1.0...v4.2.0) (2026-07-20)
